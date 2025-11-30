@@ -1,0 +1,7 @@
+{
+  "name": "Polad's Modern Tabu Oyunu",
+  "description": "Azərbaycan dilində, süni intellekt ilə işləyən modern Tabu oyunu. Dostlarınızla əyləncəli vaxt keçirin.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
